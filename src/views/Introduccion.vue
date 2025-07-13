@@ -16,10 +16,10 @@
     
       div.col-lg-4.mb-4(data-aos="zoom-in-up")
         .tarjeta.bg-color-2.px-4.py-5.h-100
-          p.mb-3 A lo largo de la unidad, se aprenderá a seleccionar herramientas digitales adecuadas para cada necesidad formativa, considerando criterios pedagógicos, técnicos y comunicativos. Se explorarán plataformas de diseño de contenidos digitales como H5P, Genially, Articulate y Canva, ideales para producir materiales visuales e interactivos que apoyen distintos estilos de aprendizaje.
+          p.mb-4 A lo largo de la unidad, se aprenderá a seleccionar herramientas digitales adecuadas para cada necesidad formativa, considerando criterios pedagógicos, técnicos y comunicativos. Se explorarán plataformas de diseño de contenidos digitales como H5P, Genially, Articulate y Canva, ideales para producir materiales visuales e interactivos que apoyen distintos estilos de aprendizaje.
           div.d-flex.justify-content-end
             img.icono-right(
-              src="@/assets/curso/tema1/2.svg"
+              src="@/assets/curso/intro/2.svg"
               alt=""
               style="width: 105px"
             )
