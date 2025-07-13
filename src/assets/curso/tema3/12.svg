@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="409" height="327" viewBox="0 0 409 327">
+  <defs>
+    <filter id="Rectángulo_420917" x="0" y="0" width="409" height="327" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1210811" data-name="Grupo 1210811" transform="translate(12 10.961)">
+    <g transform="matrix(1, 0, 0, 1, -12, -10.96)" filter="url(#Rectángulo_420917)">
+      <rect id="Rectángulo_420917-2" data-name="Rectángulo 420917" width="385" height="303" rx="10" transform="translate(12 11)" fill="#f6f3ff"/>
+    </g>
+    <g id="icons8-estudio-de-camtasia" transform="translate(108.879 60.84)">
+      <path id="Trazado_1056237" data-name="Trazado 1056237" d="M159.638,173.606H19.967A13.966,13.966,0,0,1,6,159.638V19.967A13.966,13.966,0,0,1,19.967,6H159.638a13.966,13.966,0,0,1,13.967,13.967V159.638A13.966,13.966,0,0,1,159.638,173.606Z" transform="translate(-6 -6)" fill="#8bc34a"/>
+      <path id="Trazado_1056238" data-name="Trazado 1056238" d="M13,34.279,36.279,11h76.815a2.33,2.33,0,0,1,1.648,3.976l-19.307,19.3Zm0,74.491,23.279,23.279h76.815a2.33,2.33,0,0,0,1.648-3.976l-19.307-19.3Z" transform="translate(19.59 12.279)" fill="#fff"/>
+      <path id="Trazado_1056239" data-name="Trazado 1056239" d="M13,16H36.279V90.491H13Z" transform="translate(19.59 30.557)" fill="#dcedc8"/>
+    </g>
+  </g>
+</svg>

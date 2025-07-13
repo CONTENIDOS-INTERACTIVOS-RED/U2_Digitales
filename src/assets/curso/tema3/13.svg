@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="409" height="327" viewBox="0 0 409 327">
+  <defs>
+    <filter id="Rectángulo_420917" x="0" y="0" width="409" height="327" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.29"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1210953" data-name="Grupo 1210953" transform="translate(11.757 10.961)">
+    <g transform="matrix(1, 0, 0, 1, -11.76, -10.96)" filter="url(#Rectángulo_420917)">
+      <rect id="Rectángulo_420917-2" data-name="Rectángulo 420917" width="385" height="303" rx="10" transform="translate(12 11)" fill="#f6f3ff"/>
+    </g>
+    <g id="Grupo_1210813" data-name="Grupo 1210813" transform="translate(88.789 40.77)">
+      <g id="obs-2" transform="translate(25.63 0)">
+        <circle id="Elipse_12541" data-name="Elipse 12541" cx="75.678" cy="75.678" r="75.678" transform="translate(0 0)" fill="#302e31" stroke="#fff" stroke-width="3.47"/>
+        <path id="Trazado_1056241" data-name="Trazado 1056241" d="M22.53,32.624A38.647,38.647,0,0,1,42.7,6.2c-1.78,1.807-3.932,3.192-5.581,5.158a32.2,32.2,0,0,0-7.927,27.481c2.346,14.776,16.235,26.847,31.286,26.635C72.144,66,83.517,59.28,89.224,49.155A39.809,39.809,0,0,1,120.3,66c3.573,5.285,6.363,11.479,6.553,17.926a33.174,33.174,0,0,0-15.706-20.463A32.243,32.243,0,0,0,64.428,82.428a33.671,33.671,0,0,0,2.494,24.944,38.691,38.691,0,0,1-26,18.222A40.019,40.019,0,0,1,16.4,122.528c6.849,2,14.29,2.346,21.1-.074A32.419,32.419,0,0,0,33.734,60.01c-2.516-.448-5.052-.651-7.589-.884A39.925,39.925,0,0,1,22.657,32.7Z" transform="translate(14.674 3.313)" fill="#c4c2c4"/>
+      </g>
+      <text id="OBS_Studio" data-name="OBS Studio" transform="translate(0 199.859)" fill="#212429" font-size="34" font-family="ObjektivMk1-XBold, Objektiv Mk1 XBold" font-weight="700" letter-spacing="0em"><tspan x="0" y="0">OBS Studio</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="BACKGROUND" xmlns="http://www.w3.org/2000/svg" width="1328" height="480" viewBox="0 0 1328 480">
+  <path id="Trazado_1056772" data-name="Trazado 1056772" d="M0,0H1328V480H0Z" fill="#eaf2fb"/>
+  <g id="Grupo_1211043" data-name="Grupo 1211043">
+    <path id="Trazado_1056656" data-name="Trazado 1056656" d="M0,480V0H1305.75c-6.45,13.046-17.246,25.776-32.989,37.9C1212,84.691,1087.209,116.65,965.5,145.238S715.5,202.81,640.48,246.97c-66.907,39.379-83.934,87.562-65.65,132.979,14.048,34.848,49.2,69.4,114.737,96.029Q694.61,478.022,699.9,480H0Z" fill="#cbe3ff"/>
+    <path id="Trazado_1056657" data-name="Trazado 1056657" d="M0,117.59V0H252.31c-19.45,36.25-52.19,65.5-89.22,84.2C115.22,108.37,60.72,116.54,7.11,117.51c-2.37.05-4.74.07-7.11.08Z" fill="#a0c9f8"/>
+    <path id="Trazado_1056658" data-name="Trazado 1056658" d="M27.92,408.98A57.02,57.02,0,1,1,84.94,466a57.022,57.022,0,0,1-57.02-57.02Z" transform="translate(0 -20)" fill="#a0c9f8" opacity="0.48"/>
+    <path id="Trazado_1056829" data-name="Trazado 1056829" d="M41.03,0A41.03,41.03,0,1,1,0,41.03,41.03,41.03,0,0,1,41.03,0Z" transform="translate(1219.47 326.3)" fill="#b6d7fc" opacity="0.54"/>
+  </g>
+</svg>
